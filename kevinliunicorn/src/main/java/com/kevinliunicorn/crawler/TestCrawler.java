@@ -5,7 +5,7 @@ import java.io.InputStreamReader;
 import java.net.URL;
 import java.net.URLConnection;
 
-public class testCrawler {
+public class TestCrawler {
 
 	/**
 	 * 作者：wuxinliulei 链接：https://www.zhihu.com/question/30626103/answer/83157368

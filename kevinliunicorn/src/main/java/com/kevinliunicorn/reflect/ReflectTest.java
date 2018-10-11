@@ -8,7 +8,7 @@ import java.lang.reflect.Modifier;
 
 import com.kevinliunicorn.Person;
 
-public class reflectTest {
+public class ReflectTest {
 	/**
 	 * * 为了看清楚Java反射部分代码，所有异常我都最后抛出来给虚拟机处理！ *
 	 * 

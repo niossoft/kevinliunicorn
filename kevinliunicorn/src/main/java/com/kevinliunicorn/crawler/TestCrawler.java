@@ -5,8 +5,12 @@ import java.io.InputStreamReader;
 import java.net.URL;
 import java.net.URLConnection;
 
+import org.apache.log4j.Logger;
+
 public class TestCrawler {
 
+	private static final Logger log = Logger.getLogger(TestCrawler.class);
+	
 	/**
 	 * 作者：wuxinliulei 链接：https://www.zhihu.com/question/30626103/answer/83157368
 	 * 来源：知乎 著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
@@ -14,7 +18,7 @@ public class TestCrawler {
 
 	public static void main(String[] args) {
 		// 定义即将访问的链接
-		String url = "http://www.webcomm.com.tw/";
+		String url = "http://www.google.com/";
 		// 定义一个字符串用来存储网页内容
 		String result = "";
 		// 定义一个缓冲字符输入流
@@ -48,6 +52,7 @@ public class TestCrawler {
 			}
 		}
 		System.out.println(result);
+		log.debug("Check my Crawler Content below: \n" + result);
 	}
 
 }

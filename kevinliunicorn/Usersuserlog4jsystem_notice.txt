@@ -1,0 +1,21 @@
+2018-10-12 11:21:28,348 [com.kevinliunicorn.logger.MyPractice]-[DEBUG] Here is some DEBUG
+2018-10-12 11:21:28,354 [com.kevinliunicorn.logger.MyPractice]-[INFO] Here is some INFO
+2018-10-12 11:21:28,355 [com.kevinliunicorn.logger.MyPractice]-[WARN] Here is some WARN
+2018-10-12 11:21:28,355 [com.kevinliunicorn.logger.MyPractice]-[ERROR] Here is some ERROR
+2018-10-12 11:21:28,356 [com.kevinliunicorn.logger.MyPractice]-[FATAL] Here is some FATAL
+2018-10-12 11:21:28,356 [com.kevinliunicorn.logger.MyPractice]-[INFO] Here is some aa logger
+2018-10-12 11:21:28,356 [com.kevinliunicorn.logger.MyPractice]-[INFO] Here is some aa logger
+2018-10-12 11:28:00,446 [com.kevinliunicorn.logger.MyPractice]-[DEBUG] Here is some DEBUG
+2018-10-12 11:28:00,448 [com.kevinliunicorn.logger.MyPractice]-[INFO] Here is some INFO
+2018-10-12 11:28:00,449 [com.kevinliunicorn.logger.MyPractice]-[WARN] Here is some WARN
+2018-10-12 11:28:00,449 [com.kevinliunicorn.logger.MyPractice]-[ERROR] Here is some ERROR
+2018-10-12 11:28:00,449 [com.kevinliunicorn.logger.MyPractice]-[FATAL] Here is some FATAL
+2018-10-12 11:28:00,449 [com.kevinliunicorn.logger.MyPractice]-[INFO] Here is some aa logger
+2018-10-12 11:28:00,449 [com.kevinliunicorn.logger.MyPractice]-[INFO] Here is some aa logger
+2018-10-12 11:31:34,526 [com.kevinliunicorn.logger.MyPractice]-[DEBUG] Here is some DEBUG
+2018-10-12 11:31:34,528 [com.kevinliunicorn.logger.MyPractice]-[INFO] Here is some INFO
+2018-10-12 11:31:34,528 [com.kevinliunicorn.logger.MyPractice]-[WARN] Here is some WARN
+2018-10-12 11:31:34,528 [com.kevinliunicorn.logger.MyPractice]-[ERROR] Here is some ERROR
+2018-10-12 11:31:34,528 [com.kevinliunicorn.logger.MyPractice]-[FATAL] Here is some FATAL
+2018-10-12 11:31:34,529 [com.kevinliunicorn.logger.MyPractice]-[INFO] Here is some aa logger
+2018-10-12 11:31:34,529 [com.kevinliunicorn.logger.MyPractice]-[INFO] Here is some aa logger
